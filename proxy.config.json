@@ -1,0 +1,12 @@
+{
+  "/qmjk":{
+    "target":"http://101.200.198.67:8081/",
+    "secure":false,
+    "logLevel":"debug",
+    "changeOrigin":true,
+    "pathRewrite":{
+      "^/qmjk":""
+    }
+
+  }
+}
